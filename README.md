@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JK0d3r
+- 👋 Hi, I’m J
 - 👀 I’m interested in Pokemon
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a simple but cool project (Maybe Pokemon related)
