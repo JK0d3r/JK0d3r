@@ -1,7 +1,7 @@
 - 👋 Hi, I’m J
-- 👀 I’m interested in Pokemon
+- 👀 I’m interested in anime
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a simple but cool project (Maybe Pokemon related)
+- 💞️ I’m looking to collaborate on a simple but cool project (Maybe an anime-inspired game)
 - 📫 How to reach me ...
 
 <!---
